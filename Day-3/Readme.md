@@ -215,8 +215,3 @@ aws sts get-caller-identity
 This is ALL you need to understand IAM at a strong beginner-to-intermediate level.
 
 
-
-If you want, I can format this even more beautifully for GitHub (with tables, emojis, headings).
-Just tell me **“Make it GitHub style”**.
-
-When you're ready, I will prepare your **Day-03 LinkedIn post (short + professional)**.
