@@ -141,5 +141,3 @@ Your existing EC2 continues running normally.
 ✔ Easy migration from "single-server" to "scalable" setup
 
 ---
-
-Just tell me **“give step-by-step with screenshots”** or **“make LinkedIn version.”**
