@@ -270,7 +270,3 @@ What I did:
 ✔ Debugging AccessDenied errors
 ✔ Cleanup of all resources
 
-
-
-
-You did **excellent work** 👏
