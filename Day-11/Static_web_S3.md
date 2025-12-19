@@ -131,11 +131,3 @@ Website loaded successfully 🎉
 * S3 is ideal for static content, not backend apps
 
 ---
-
-
-
-## ✅ Status
-
-**Day-11 completed successfully** ✔️
-
-Next: CloudFront / IAM / EC2 🚀
